@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Voodoo Warrior",
+  "universe": "WBM · Wrath of the Black Manta",
+  "emergence": "ethereal",
+  "moniker": "⟦The Voodoo Warrior:WBM:c334e5⟧",
+  "carbon": "voodoo-warrior.carbon.tiff (TIFF)",
+  "silicon": "voodoo-warrior.silicon.png (PNG)",
+  "seal_sha256": "a71056d57e0027a225574b790139a7549961125f8b464b888594a0b9aed060e5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "black-manta",
+    "name": "The Black Manta",
+    "epithet": "the ninja cop · Saizou (nameless in the West)",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "el-toro",
+    "name": "El Toro",
+    "epithet": "the Bull · DRAT's mastermind",
+    "emergence": "natural"
+  },
+  {
+    "slug": "drat",
+    "name": "DRAT",
+    "epithet": "Drug Runners And Terrorists · the syndicate",
+    "emergence": "natural"
+  },
+  {
+    "slug": "taro",
+    "name": "Taro",
+    "epithet": "the dojo child · the last rescue, the human shield",
+    "emergence": "natural"
+  },
+  {
+    "slug": "ninja-arts",
+    "name": "The Ninja Arts",
+    "epithet": "ninjutsu · a new technique per boss",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "interrogation",
+    "name": "The Interrogation",
+    "epithet": "grab the red goon, zoom in, learn (almost) nothing",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "tiny",
+    "name": "Tiny",
+    "epithet": "the giant · the ironic name",
+    "emergence": "natural"
+  },
+  {
+    "slug": "voodoo-warrior",
+    "name": "The Voodoo Warrior",
+    "epithet": "the witch-doctor boss",
+    "emergence": "ethereal"
+  }
+]

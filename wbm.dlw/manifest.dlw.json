@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "WRATH OF THE BLACK MANTA",
+  "universe": "WBM · Wrath of the Black Manta",
+  "emergence": "",
+  "moniker": "⟦WRATH OF THE BLACK MANTA:WBM:03197b⟧",
+  "carbon": "wbm.carbon.tiff (TIFF)",
+  "silicon": "wbm.silicon.png (PNG)",
+  "seal_sha256": "3373ebd4bad505603a06cae82354445b3d99f2c7b79e040a45a53f9384604e64",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
