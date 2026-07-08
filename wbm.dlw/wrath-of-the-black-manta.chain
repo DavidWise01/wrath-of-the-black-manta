@@ -4,6 +4,6 @@ slug  : wrath-of-the-black-manta
 seal  : 3373ebd4bad505603a06cae82354445b3d99f2c7b79e040a45a53f9384604e64
 prev  : 4c66f8da623d8ef7f09d023ed3e13901a301f6cb64435f0d6fc3713124128cc7
 link  : ab47047ae8ac253c905ea5f4148b57ea74be03eefce3c829d545e52cb9672064
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
