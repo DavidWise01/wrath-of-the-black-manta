@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 623
 slug  : wrath-of-the-black-manta
 seal  : 3373ebd4bad505603a06cae82354445b3d99f2c7b79e040a45a53f9384604e64
-prev  : 4c66f8da623d8ef7f09d023ed3e13901a301f6cb64435f0d6fc3713124128cc7
-link  : ab47047ae8ac253c905ea5f4148b57ea74be03eefce3c829d545e52cb9672064
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : d1e46f7a37ef43deff660e8bc4817f37955184203fe016d621a31c1f27394040
+link  : edd9a842e79d0f13170a7fa03cde295d7e73099109cca20281ee148819a6f738
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
